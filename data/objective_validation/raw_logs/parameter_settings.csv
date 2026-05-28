@@ -1,0 +1,7 @@
+condition,kp,kr,doorAudioCooldown,armAudioCooldown,collisionMasking,audioFeedback
+Direct,100%,100%,1.0,1.0,true,true
+PlanarIK,100%,100%,1.0,1.0,true,true
+Ours,100%,100%,1.0,1.0,true,true
+LowGain,50%,50%,1.0,1.0,true,true
+NoCollisionMasking,100%,100%,1.0,1.0,false,true
+NoAudioFeedback,100%,100%,1.0,1.0,true,false

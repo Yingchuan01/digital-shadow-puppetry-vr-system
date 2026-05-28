@@ -1,0 +1,8 @@
+threshold,value,unit,description
+convergence_threshold,0.01,units,IK convergence threshold
+response_threshold,0.05,units,Contact response threshold (displacement/velocity change)
+recovery_threshold,0.03,units,Contact recovery threshold (error value)
+penetration_threshold,0.02,units,Penetration determination threshold (below this value considered non-penetrating)
+jitter_instability_threshold,0.02,units,Visual instability threshold (jitter exceeding this marks unstable frame)
+min_instability_frames,3,frames,Minimum consecutive frames for visual instability event
+release_velocity_threshold,0.01,units,Release completion threshold (Physics-Render Skeleton speed below this considered released)
